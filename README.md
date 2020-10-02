@@ -8,8 +8,9 @@ Taking data from source using Postgre, transform it using pandas and store in cs
 
 Random Forest Regressor
 
-### step3: Showing model results for next 14 days
+### step3: Showing model results
 
+Predicting expected revenue of organization for next 14 days
 
 # Install dependencies. Run following command
 
